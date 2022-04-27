@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+.card1 img, .card2 img, .card3 img, .card4 img, .card-body {
+    height: 30vh;
+    width: 26vh;
+    padding: 10px;
+    text-align: justify;
+}
